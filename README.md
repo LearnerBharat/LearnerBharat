@@ -2,7 +2,7 @@
     <img src="https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="MasterHead">
 </a>
 <br/>
-<h1 align="center">Hi there!👋, Myself Bharat Sharma</h1>
+<h1 align="center">Hi there! 👋, Myself Bharat Sharma</h1>
 <h3 align="center">A Proficient Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **React as well as Data Structures and Algorithms.**
